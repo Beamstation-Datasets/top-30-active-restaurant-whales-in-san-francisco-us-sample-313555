@@ -1,12 +1,12 @@
 {
-  "export_job_id": "39959418-a6ab-421b-9a61-f0b233fc2f2a",
+  "export_job_id": "2304de3f-a019-460d-833c-ae2cd2b63600",
   "id_short": 313555,
-  "published_at": "2026-04-11T07:25:27Z",
+  "published_at": "2026-04-18T07:50:33Z",
   "repo_name": "top-30-active-restaurant-whales-in-san-francisco-us-sample-313555",
   "sample_asset_name": "beamstation_313555_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/313555/beamstation_313555_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 99,
-  "sample_sha256": "10faa933ae678d6d511906cc906813e00e173b90ff2279aee0b81559bcab35cc",
-  "sample_size_bytes": 409697,
-  "total_records": 992
+  "sample_sha256": "96db53fb76f125273a59a7fdf69d44920d1b03f69afc8f8be2ef5b43099198e5",
+  "sample_size_bytes": 421351,
+  "total_records": 995
 }
