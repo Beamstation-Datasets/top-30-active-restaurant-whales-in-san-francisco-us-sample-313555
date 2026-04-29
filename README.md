@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in San Francisco, US
 
-> Free BeamStation sample export with 78 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `313555` |
 | Location | San Francisco |
 | Category | Restaurants |
-| Full dataset size | 783 records |
-| Free sample size | 78 records (9.96%) |
-| Last export | 2026-04-22T02:13:13.378637+00:00 |
+| Full dataset size | 158 records |
+| Free sample size | 15 records (9.49%) |
+| Last export | 2026-04-29T05:18:50.329849+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-san-francisco-us-sample-313555/releases/download/sample-latest/beamstation_313555_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
